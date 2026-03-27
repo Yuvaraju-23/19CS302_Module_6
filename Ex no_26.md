@@ -14,8 +14,8 @@ To write a C program to demonstrate a self-referential structure where an employ
 ```
 /*
 C program demonstrating a self-referential structure where an employee has a pointer to their manager.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 #include <stdlib.h>
