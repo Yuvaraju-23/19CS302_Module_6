@@ -14,8 +14,8 @@ To write a C program that demonstrates the use of enum (enumeration) type to def
 ```
 /*
 C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 enum weekdays {
